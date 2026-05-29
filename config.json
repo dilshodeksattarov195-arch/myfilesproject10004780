@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpetch",
+        "uuid": 24645680,
+        "checksum": "fsw17c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
